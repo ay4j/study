@@ -6,6 +6,8 @@
 .metadata/
 Servers/
 .idea/
+.gradle/
+build/
 
 target/
 log/
